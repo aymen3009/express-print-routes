@@ -1,0 +1,9 @@
+{
+  "name": "@aymen3009/express-print-routes",
+  "version": "0.0.1",
+  "description": "A simple express middleware to print all routes",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Aymen Abdellaoui",
+  "license": "MIT"
+}
