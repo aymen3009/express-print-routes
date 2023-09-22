@@ -3,7 +3,13 @@
   "version": "0.0.1",
   "description": "A simple express middleware to print all routes",
   "main": "index.js",
-  "keywords": [],
+  "keywords": [
+    "express",
+    "routes",
+    "print",
+    "middleware",
+    "print-routes"
+  ],
   "author": "Aymen Abdellaoui",
   "license": "MIT"
 }

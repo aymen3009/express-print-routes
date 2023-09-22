@@ -27,4 +27,4 @@ printRoutes(app);
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](LICENSE) License, feel free to do whatever you want with it.
